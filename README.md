@@ -1,4 +1,4 @@
-# Data Structures From Scratch
+# Data Structures and Algos From Scratch
 A library of data structures in python.
 
 This git is part of an effort to master the various data structures found in computer science.
