@@ -1,4 +1,4 @@
-from LinkedList import LinkedList
+from DataStructures import LinkedList
 
 ll = LinkedList()
 ll.add(1)
