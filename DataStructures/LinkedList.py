@@ -64,3 +64,7 @@ class LinkedList(object):
             cursor = cursor.next
         return ret
 
+a = LinkedList()
+
+[a.add(i) for i in range(5)]
+print(a)
